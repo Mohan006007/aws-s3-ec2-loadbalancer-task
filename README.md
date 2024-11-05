@@ -1,6 +1,3 @@
-
-Here’s a more polished version of your README to make it look professional:
-
 AWS S3, EC2, and Load Balancer Setup
 Overview
 This project demonstrates a foundational setup on AWS, utilizing S3 for storage, EC2 instances for application hosting, and an Application Load Balancer for distributing traffic. The objective is to set up a secure S3 bucket, enable logging, launch EC2 instances with web server configurations, and configure a load balancer for traffic management.
